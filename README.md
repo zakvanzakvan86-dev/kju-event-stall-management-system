@@ -1,6 +1,6 @@
 # KJC Event Stall & Startup Management System
 
-A web-based stall and event management platform developed for Kristu Jayanti University (KJU).
+A web-based stall and event management platform developed for Kristu Jayanti University (KJU)
 
 This system helps event coordinators, students, startups, and administrators manage event stalls, registrations, approvals, payments, reports, and reimbursements digitally in a centralized platform.
 
