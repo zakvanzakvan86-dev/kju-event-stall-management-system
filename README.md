@@ -38,7 +38,7 @@ This system helps event coordinators, students, startups, and administrators man
 - Maven
 
 ### Database
-- MongoDB 7
+- MongoDB 
 
 ## Modules
 - Authentication Module
